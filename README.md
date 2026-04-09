@@ -59,4 +59,4 @@ This repository is organized as a **Monorepo**:
 **Ashish Kumar Pandey**
 * B.Tech in Computer Science and Engineering
 * Galgotias University (Batch of 2027)
-* [LinkedIn](https://www.linkedin.com/in/ashishkrpandey1234) | [GitHub](https://github.com/AshishKrPandey1234)
+* [LinkedIn](https://www.linkedin.com/in/ashish-kumar-pandey-a773a9280/) | [GitHub](https://github.com/AshishKrPandey1234)
